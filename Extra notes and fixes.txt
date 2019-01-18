@@ -1,0 +1,16 @@
+json.dumps()
+converts Python dictionary to JSON
+
+json.loads()
+converts JSON to Python dictionary
+
+To save config in IOS XE: 
+
+	URL : host/restconf/api/operations/cisco-ia:save-config
+
+	Method - POST
+
+	Content-Type - application/vnd.yang.operation+json
+
+sublime fix:
+http://tipsonubuntu.com/2017/05/30/install-sublime-text-3-ubuntu-16-04-official-way/
